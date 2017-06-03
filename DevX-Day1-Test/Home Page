@@ -1,0 +1,13 @@
+Home Page
+- navigation using ul with links to Home Page, About Page, Contact Page
+- headline that says "Home Page"
+- 1 image
+
+About Page
+- headline that says "About Page"
+- paragraph that says "This is the about page, more content to follow"
+- unordered list that says "test 1", "test 2", "test 3"
+
+Contact Page
+- headline that says "Contact Page"
+- paragraph tag with your name
